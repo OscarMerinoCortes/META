@@ -1,0 +1,1 @@
+las imagenes del menu tienen que tener las mismas dimenciones para evitar desajustes

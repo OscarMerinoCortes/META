@@ -1,0 +1,33 @@
+﻿
+        .carta_no_imprimir {
+            display: none;
+        }
+
+        #carta_imprimir {
+            display: block;
+        }
+
+        .Ocultar {
+            display: none;
+        }
+
+        
+        #Submenu{
+            display:none;
+        }
+        #MenuDerecho{
+            display:none;
+        }
+        #menu{
+            display:none
+        }
+
+        #header{
+            display:none;
+        }
+        #Titulo{
+            display:none
+        }
+        #btn-menus{
+            display:none
+        }

@@ -1,0 +1,255 @@
+﻿body{
+	margin: 0px;
+	font-family:'Segoe UI';
+}
+#form1{
+    margin:0px;
+}
+
+.header{
+  background-color:#285583;
+  overflow: hidden;    
+  width:100%;  
+}
+#btn-menu {/*para desaparecer el checkbox*/
+    display:none;
+}
+#btn-menu, #btn-menus{/*para alinearlos a la derecha*/
+    float:right;
+}
+/*----------------------------------titulo de opcion-----------------------------------*/
+div#Titulo{
+    position:absolute;
+    float:left;
+    color:#fff;
+    margin-left:10px;
+    font-size: 15pt;
+}
+div#Titulo #LBOpcion{
+    font-family:Helvetica;
+    color:#e7ecf1;
+}
+div#Titulo #LBModulo{
+    font-family:Helvetica;
+    color:#c9c9C9;
+    
+}
+div#Titulo img#LogoEncavezado{
+    width:30px;
+    vertical-align:middle;
+}
+/*--------------------------------------------------------------------------------------*/
+
+
+
+/*------------------------------------label del menu derecho(NO MODIFICAR)----------------*/
+.header label{
+    display:block;
+    width:30px;
+    height:30px;    
+    padding-left: 5px;
+    padding-top: 4px;
+    
+}
+.header label:hover{
+    cursor:pointer;
+    background:rgba(0,0,0,0.3);
+}
+
+
+#nav{
+    float:right;
+    display:none;
+}
+.menu{
+    position:absolute;
+    top:35px;
+    right:0px;
+    width: 330px;
+    background : #285583;
+    height:94.6%;
+    z-index:999;
+}
+#btn-menu:checked ~ .menu{
+     display:block;
+}
+/*body{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}*/
+/*---------------------------------------------------------------------------------------*/
+
+/*---------------------------------------------Encavezado de menu--------------------------------------------------*/
+.menu div.EncavezadoMenu{                  /*se modificara el encavezado del menu*/
+    background: rgba(0, 0, 0, 0.3);/*agregamos una opacidad al encavezado para separarlo del cuerpo*/
+    position  : relative;          /*posicion relativa*/
+    width     : 100%;              /*tomar todo el ancho de el contenedor principal*/
+    padding   : 70px 0px 30px 0px; /*agregamos relleno para separarlo de la parte superior y de la parte baja*/
+    bottom    : 0px;               /*agregamos un bottom para que no se despegue el encavezado del menu */
+    text-align: center;            /*alineamos todo texto del encavezado del menu*/
+    color     :#fff;               /*el color de texto sera blanco*/
+}
+.menu div.EncavezadoMenu a{             /*asignamos un link al encavezado que esta dentro un div y que a su vez esta dentro de un div menu principal*/
+    color          : #fff;      /*el color del texto sera blanco*/
+    display        : block;     /*se tratara como bloque*/
+    text-decoration: none;      /*su texto no tendra decoracion*/
+    margin         : -45px auto;/*y su margen estara centrado*/
+}
+/*----------------------------------------------------------------------------------------------------------*/
+
+
+
+/*-----------------------------------------------Cuerpo del Menu------------------------------------------------------*/
+ul{                        /*lista ordenada*/
+    text-decoration : none;/* quitamos la decoracion del texto*/
+    list-style      : none;/*quitamos el estilo de la lista*/
+}
+#MNModulo ul li{                 /*modificar los items que estan dentro de una lista ordenada*/
+    float     : left;  /*alinear los items para leer de Izquierda a derecha*/
+    width     : 110px; /*ancho total de la suma de todos los items*/
+    text-align: center;/*alinear texto de los items al centro*/
+}
+#MNModulo ul li a{                                /*modificar los link que estan dentro de los items y que son de la lista ordenada*/
+    display         : block;            /*los items se manejaran como bloques*/
+    width           : 110px;            /*ancho de la suma de los link contenidos dentro de los items de la lista ordenada*/
+    text-decoration : none;             /*quitamos decoracion de texto del link*/
+    padding         : 30px 0px 20px 0px;/*agregamos relleno a la parte superior del link y en la parte inferior*/
+    color           : #fff;             /*agregamos el color blanco al texto*/  
+}
+.menu #MNModulo ul li a img{       /*manejo de las imagenes dentro de los items y de los link en la lista ordenada*/
+    display: block;      /*manejo como bloque*/
+    margin : auto;       /*centrar contenido*/
+    padding-bottom: 10px;/*separacion entre la imagen y el texto del cuerpo del menu*/
+}
+#MNModulo ul li a:hover{                      /*agregamos efecto cuuando el raton esta encima del item de la lista ordenada*/
+    color      : #FFF;              /*dejamos el color de texto en blanco*/ 
+    background : rgba(0, 0, 0, 0.3);/*agregamos una opacidad*/
+}
+
+
+
+
+
+/*----------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+/*---------------------------------------------Pie de menu--------------------------------------------------*/
+.menu div.PieMenu{                      /*agregamos un pie de menu para la opcion de salir*/
+    background     : rgba(0, 0, 0, 0.3);/*agregamos una opacidad*/
+    position       : absolute;          /*posicion absoluta*/
+    width          : 100%;              /*agregamos el ancho para ocuparse todo al div contenedor*/
+    padding        : 10px 0px 10px 0px; /*agregamos relleno para separarlo de la parte superior e inferior*/
+    bottom         : 0px;              /*añadomis quie tan separado puede estar de la parte mas baja del menu*/
+    text-align     : center;            /*centramos su texto*/
+    display        : block;             /*se tratara como bloque*/
+    text-decoration: none;              /*y no manejara texto decorativo*/
+}
+.menu div.PieMenu a{          /*manejo del el link dentro de el pie del menu*/
+    color          : #fff;    /*texto blanco*/
+    display        : block;   /*manejo como bloque*/
+    text-decoration: none;    /*sin texto decorativo*/
+    margin         : 0px auto;/*centramos el contenido con una separacion de margen*/
+}
+/*-----------------------------------------------------------------------------------------------*/
+
+
+
+/*--------Para poner los menus de cada modulo en la barra de encavezado--------------*/
+/*#MenuDerecho{
+    position:absolute;
+    padding:0px 0px 0px 10% ;
+}
+div.menuOpciones
+{
+display: inline-block;
+}
+div.menuOpciones img
+{
+    border: none;
+    margin: 0px 8px 0px 0px;
+}
+
+div.menuOpciones ul
+{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+    background-color: #285583;
+}
+div.menuOpciones ul li a, div.menuOpciones ul li a:visited
+{
+    background-color: #285583;
+    color:#fff;
+    display: block;
+    line-height: 20px;
+    padding: 9px 20px 8px 15px;
+    text-decoration: none;
+    white-space: nowrap;
+    vertical-align:middle;
+}
+
+div.menuOpciones ul li a:hover
+{
+    background: rgba(0,0,0,0.3);
+    color: #fff;
+    text-decoration: none;
+}*/
+/*-----------------------------------------------------------------------------*/
+div#Submenu{
+    width:100%;
+    background:#2E2E2E;    
+    padding: 0px 0px 34px 0px;
+    margin-bottom: 10px;
+}
+div#MenuDerecho{
+    position:absolute;
+}
+div.menuOpciones
+{
+display: inline-block;
+z-index:9999;
+}
+div.menuOpciones img
+{
+    border: none;
+    margin: 0px 8px 0px 0px;
+    z-index:9999;
+}
+
+div.menuOpciones ul
+{
+    list-style: none;
+    margin: 0px; 
+
+    padding: 0px;
+    width: auto;
+    background-color: #2E2E2E;
+    z-index:9999;
+}
+div.menuOpciones ul li a, div.menuOpciones ul li a:visited
+{
+    background-color: #2E2E2E;
+    color:#fff;
+    display: block;
+    line-height: 20px;
+    padding: 5px 20px 8px 15px;
+    text-decoration: none;
+    white-space: nowrap;
+    vertical-align:middle;
+    z-index:9999;
+}
+
+div.menuOpciones ul li a:hover
+{
+    background: rgba(0,0,0,0.3);
+    color: #fff;
+    text-decoration: none;
+    z-index:9999;
+}

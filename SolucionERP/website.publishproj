@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+***********************************************************************************************
+website.publishproj
+
+ADVERTENCIA: NO MODIFIQUE el archivo, se usa para el proceso de publicación web.
+
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+***********************************************************************************************
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.30319</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{ef1a17f0-e081-4dda-bf8a-afbff01aad08}</ProjectGuid>
+    <SourceWebPhysicalPath>$(MSBuildThisFileDirectory)</SourceWebPhysicalPath>
+    <SourceWebVirtualPath>/SolucionERP</SourceWebVirtualPath>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <SourceWebProject>http://localhost:8755</SourceWebProject>
+    <SourceWebMetabasePath>/IISExpress/7.5/LM/W3SVC/2/ROOT</SourceWebMetabasePath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <!-- for VS2010 we need to use 10.5 but for VS2012+ we should use VisualStudioVersion -->
+    <WebPublishTargetsVersion Condition=" '$(WebPublishTargetsVersion)' =='' and '$(VisualStudioVersion)' == 10.0 ">10.5</WebPublishTargetsVersion>
+    <WebPublishTargetsVersion Condition=" '$(WebPublishTargetsVersion)'=='' ">$(VisualStudioVersion)</WebPublishTargetsVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(WebPublishTargetsVersion)</VSToolsPath>
+    <_WebPublishTargetsPath Condition=" '$(_WebPublishTargetsPath)'=='' ">$(VSToolsPath)</_WebPublishTargetsPath>
+    <AssemblyFileVersion Condition="'$(AssemblyFileVersion)' == ''">1.0.0.0</AssemblyFileVersion>
+    <AssemblyVersion Condition="'$(AssemblyVersion)' == ''">1.0.0.0</AssemblyVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AssemblyAttributes Include="AssemblyFileVersion">
+      <Value>$(AssemblyFileVersion)</Value>
+    </AssemblyAttributes>
+    <AssemblyAttributes Include="AssemblyVersion">
+      <Value>$(AssemblyVersion)</Value>
+    </AssemblyAttributes>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Comun\Comun.vbproj">
+      <Project>{0368715B-5398-44B4-B768-472B7A431CD4}</Project>
+      <Name>Comun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Datos\Datos.vbproj">
+      <Project>{FD8E3F0C-555E-4956-AEE9-92742C134449}</Project>
+      <Name>Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidad\Entidad.vbproj">
+      <Project>{737CA93A-6901-4427-AA14-2F62186933E7}</Project>
+      <Name>Entidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio\Negocio.vbproj">
+      <Project>{C180FA81-4A6E-4393-AF2B-C75BF8CFEB44}</Project>
+      <Name>Negocio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Operacion\Operacion.vbproj">
+      <Project>{7419E05D-0BDC-4A42-ABE3-3C977729D2E6}</Project>
+      <Name>Operacion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Seguridad\Seguridad.vbproj">
+      <Project>{C3A4474F-DF86-4FF5-A2A6-79F700E7A194}</Project>
+      <Name>Seguridad</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(_WebPublishTargetsPath)\Web\Microsoft.WebSite.Publishing.targets" />
+</Project>

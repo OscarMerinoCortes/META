@@ -1,0 +1,45 @@
+C:\ERP_META_PRUEBA\METADesarrollo\ERP\Seguridad\obj\Debug\Seguridad.vbprojResolveAssemblyReference.cache
+C:\ERP_META_PRUEBA\METADesarrollo\ERP\Seguridad\obj\Debug\Seguridad.Resources.resources
+C:\ERP_META_PRUEBA\METADesarrollo\ERP\Seguridad\obj\Debug\Seguridad.vbproj.GenerateResource.Cache
+C:\ERP_META_PRUEBA\METADesarrollo\ERP\Seguridad\obj\Debug\Seguridad.xml
+C:\ERP_META_PRUEBA\METADesarrollo\ERP\Seguridad\bin\Debug\Seguridad.dll
+C:\ERP_META_PRUEBA\METADesarrollo\ERP\Seguridad\bin\Debug\Seguridad.pdb
+C:\ERP_META_PRUEBA\METADesarrollo\ERP\Seguridad\bin\Debug\Seguridad.xml
+C:\ERP_META_PRUEBA\METADesarrollo\ERP\Seguridad\bin\Debug\Entidad.dll
+C:\ERP_META_PRUEBA\METADesarrollo\ERP\Seguridad\bin\Debug\Operacion.dll
+C:\ERP_META_PRUEBA\METADesarrollo\ERP\Seguridad\bin\Debug\Entidad.pdb
+C:\ERP_META_PRUEBA\METADesarrollo\ERP\Seguridad\bin\Debug\Entidad.xml
+C:\ERP_META_PRUEBA\METADesarrollo\ERP\Seguridad\bin\Debug\Operacion.pdb
+C:\ERP_META_PRUEBA\METADesarrollo\ERP\Seguridad\bin\Debug\Operacion.xml
+C:\ERP_META_PRUEBA\METADesarrollo\ERP\Seguridad\obj\Debug\Seguridad.dll
+C:\ERP_META_PRUEBA\METADesarrollo\ERP\Seguridad\obj\Debug\Seguridad.pdb
+C:\ERP_META\METADesarrollo\ERP\Seguridad\bin\Debug\Seguridad.dll
+C:\ERP_META\METADesarrollo\ERP\Seguridad\bin\Debug\Seguridad.pdb
+C:\ERP_META\METADesarrollo\ERP\Seguridad\bin\Debug\Seguridad.xml
+C:\ERP_META\METADesarrollo\ERP\Seguridad\bin\Debug\Entidad.dll
+C:\ERP_META\METADesarrollo\ERP\Seguridad\bin\Debug\Operacion.dll
+C:\ERP_META\METADesarrollo\ERP\Seguridad\bin\Debug\Entidad.pdb
+C:\ERP_META\METADesarrollo\ERP\Seguridad\bin\Debug\Entidad.xml
+C:\ERP_META\METADesarrollo\ERP\Seguridad\bin\Debug\Operacion.pdb
+C:\ERP_META\METADesarrollo\ERP\Seguridad\bin\Debug\Operacion.xml
+C:\ERP_META\METADesarrollo\ERP\Seguridad\obj\Debug\Seguridad.vbprojResolveAssemblyReference.cache
+C:\ERP_META\METADesarrollo\ERP\Seguridad\obj\Debug\Seguridad.Resources.resources
+C:\ERP_META\METADesarrollo\ERP\Seguridad\obj\Debug\Seguridad.vbproj.GenerateResource.Cache
+C:\ERP_META\METADesarrollo\ERP\Seguridad\obj\Debug\Seguridad.dll
+C:\ERP_META\METADesarrollo\ERP\Seguridad\obj\Debug\Seguridad.xml
+C:\ERP_META\METADesarrollo\ERP\Seguridad\obj\Debug\Seguridad.pdb
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Seguridad\bin\Debug\Seguridad.dll
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Seguridad\bin\Debug\Seguridad.pdb
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Seguridad\bin\Debug\Seguridad.xml
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Seguridad\bin\Debug\Entidad.dll
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Seguridad\bin\Debug\Operacion.dll
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Seguridad\bin\Debug\Entidad.pdb
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Seguridad\bin\Debug\Entidad.xml
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Seguridad\bin\Debug\Operacion.pdb
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Seguridad\bin\Debug\Operacion.xml
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Seguridad\obj\Debug\Seguridad.vbprojResolveAssemblyReference.cache
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Seguridad\obj\Debug\Seguridad.Resources.resources
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Seguridad\obj\Debug\Seguridad.vbproj.GenerateResource.Cache
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Seguridad\obj\Debug\Seguridad.dll
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Seguridad\obj\Debug\Seguridad.xml
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Seguridad\obj\Debug\Seguridad.pdb

@@ -1,0 +1,66 @@
+C:\ERPMM\Entidad\bin\Debug\Entidad.dll
+C:\ERPMM\Entidad\bin\Debug\Entidad.pdb
+C:\ERPMM\Entidad\bin\Debug\Entidad.xml
+C:\ERPMM\Entidad\bin\Debug\Operacion.dll
+C:\ERPMM\Entidad\bin\Debug\Operacion.pdb
+C:\ERPMM\Entidad\bin\Debug\Operacion.xml
+C:\ERPMM\Entidad\obj\Debug\Entidad.vbprojResolveAssemblyReference.cache
+C:\ERPMM\Entidad\obj\Debug\Entidad.Resources.resources
+C:\ERPMM\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.Cache
+C:\ERPMM\Entidad\obj\Debug\Entidad.dll
+C:\ERPMM\Entidad\obj\Debug\Entidad.xml
+C:\ERPMM\Entidad\obj\Debug\Entidad.pdb
+C:\ERP\branches\ERP\Entidad\bin\Debug\Entidad.dll
+C:\ERP\branches\ERP\Entidad\bin\Debug\Entidad.pdb
+C:\ERP\branches\ERP\Entidad\bin\Debug\Entidad.xml
+C:\ERP\branches\ERP\Entidad\bin\Debug\Operacion.dll
+C:\ERP\branches\ERP\Entidad\bin\Debug\Operacion.pdb
+C:\ERP\branches\ERP\Entidad\bin\Debug\Operacion.xml
+C:\ERP\branches\ERP\Entidad\obj\Debug\Entidad.vbprojResolveAssemblyReference.cache
+C:\ERP\branches\ERP\Entidad\obj\Debug\Entidad.Resources.resources
+C:\ERP\branches\ERP\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.Cache
+C:\ERP\branches\ERP\Entidad\obj\Debug\Entidad.dll
+C:\ERP\branches\ERP\Entidad\obj\Debug\Entidad.xml
+C:\ERP\branches\ERP\Entidad\obj\Debug\Entidad.pdb
+C:\ERP_Meta\branches\ERP\Entidad\bin\Debug\Entidad.dll
+C:\ERP_Meta\branches\ERP\Entidad\bin\Debug\Entidad.pdb
+C:\ERP_Meta\branches\ERP\Entidad\bin\Debug\Entidad.xml
+C:\ERP_Meta\branches\ERP\Entidad\bin\Debug\Operacion.dll
+C:\ERP_Meta\branches\ERP\Entidad\bin\Debug\Operacion.pdb
+C:\ERP_Meta\branches\ERP\Entidad\bin\Debug\Operacion.xml
+C:\ERP_Meta\branches\ERP\Entidad\obj\Debug\Entidad.vbprojResolveAssemblyReference.cache
+C:\ERP_Meta\branches\ERP\Entidad\obj\Debug\Entidad.Resources.resources
+C:\ERP_Meta\branches\ERP\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.Cache
+C:\ERP_Meta\branches\ERP\Entidad\obj\Debug\Entidad.dll
+C:\ERP_Meta\branches\ERP\Entidad\obj\Debug\Entidad.xml
+C:\ERP_Meta\branches\ERP\Entidad\obj\Debug\Entidad.pdb
+C:\ERP_META\METADesarrollo\ERP\Entidad\bin\Debug\Entidad.dll
+C:\ERP_META\METADesarrollo\ERP\Entidad\bin\Debug\Entidad.pdb
+C:\ERP_META\METADesarrollo\ERP\Entidad\bin\Debug\Entidad.xml
+C:\ERP_META\METADesarrollo\ERP\Entidad\bin\Debug\Comun.dll
+C:\ERP_META\METADesarrollo\ERP\Entidad\bin\Debug\Operacion.dll
+C:\ERP_META\METADesarrollo\ERP\Entidad\bin\Debug\Comun.pdb
+C:\ERP_META\METADesarrollo\ERP\Entidad\bin\Debug\Comun.xml
+C:\ERP_META\METADesarrollo\ERP\Entidad\bin\Debug\Operacion.pdb
+C:\ERP_META\METADesarrollo\ERP\Entidad\bin\Debug\Operacion.xml
+C:\ERP_META\METADesarrollo\ERP\Entidad\obj\Debug\Entidad.vbprojResolveAssemblyReference.cache
+C:\ERP_META\METADesarrollo\ERP\Entidad\obj\Debug\Entidad.Resources.resources
+C:\ERP_META\METADesarrollo\ERP\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.Cache
+C:\ERP_META\METADesarrollo\ERP\Entidad\obj\Debug\Entidad.dll
+C:\ERP_META\METADesarrollo\ERP\Entidad\obj\Debug\Entidad.xml
+C:\ERP_META\METADesarrollo\ERP\Entidad\obj\Debug\Entidad.pdb
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Entidad\bin\Debug\Entidad.dll
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Entidad\bin\Debug\Entidad.xml
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Entidad\bin\Debug\Comun.dll
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Entidad\bin\Debug\Operacion.dll
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Entidad\bin\Debug\Comun.pdb
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Entidad\bin\Debug\Comun.xml
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Entidad\bin\Debug\Operacion.pdb
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Entidad\bin\Debug\Operacion.xml
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Entidad\obj\Debug\Entidad.vbprojResolveAssemblyReference.cache
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Entidad\obj\Debug\Entidad.Resources.resources
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.Cache
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Entidad\obj\Debug\Entidad.dll
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Entidad\obj\Debug\Entidad.xml
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Entidad\obj\Debug\Entidad.pdb

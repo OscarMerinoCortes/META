@@ -1,0 +1,96 @@
+C:\ERPMM\Negocio\bin\Debug\Negocio.dll
+C:\ERPMM\Negocio\bin\Debug\Negocio.pdb
+C:\ERPMM\Negocio\bin\Debug\Negocio.xml
+C:\ERPMM\Negocio\bin\Debug\Datos.dll
+C:\ERPMM\Negocio\bin\Debug\Entidad.dll
+C:\ERPMM\Negocio\bin\Debug\Operacion.dll
+C:\ERPMM\Negocio\bin\Debug\Datos.pdb
+C:\ERPMM\Negocio\bin\Debug\Datos.xml
+C:\ERPMM\Negocio\bin\Debug\Entidad.pdb
+C:\ERPMM\Negocio\bin\Debug\Entidad.xml
+C:\ERPMM\Negocio\bin\Debug\Operacion.pdb
+C:\ERPMM\Negocio\bin\Debug\Operacion.xml
+C:\ERPMM\Negocio\obj\Debug\Negocio.vbprojResolveAssemblyReference.cache
+C:\ERPMM\Negocio\obj\Debug\Negocio.Resources.resources
+C:\ERPMM\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\ERPMM\Negocio\obj\Debug\Negocio.dll
+C:\ERPMM\Negocio\obj\Debug\Negocio.xml
+C:\ERPMM\Negocio\obj\Debug\Negocio.pdb
+C:\ERP\branches\ERP\Negocio\bin\Debug\Negocio.dll
+C:\ERP\branches\ERP\Negocio\bin\Debug\Negocio.pdb
+C:\ERP\branches\ERP\Negocio\bin\Debug\Negocio.xml
+C:\ERP\branches\ERP\Negocio\bin\Debug\Datos.dll
+C:\ERP\branches\ERP\Negocio\bin\Debug\Entidad.dll
+C:\ERP\branches\ERP\Negocio\bin\Debug\Operacion.dll
+C:\ERP\branches\ERP\Negocio\bin\Debug\Datos.pdb
+C:\ERP\branches\ERP\Negocio\bin\Debug\Datos.xml
+C:\ERP\branches\ERP\Negocio\bin\Debug\Entidad.pdb
+C:\ERP\branches\ERP\Negocio\bin\Debug\Entidad.xml
+C:\ERP\branches\ERP\Negocio\bin\Debug\Operacion.pdb
+C:\ERP\branches\ERP\Negocio\bin\Debug\Operacion.xml
+C:\ERP\branches\ERP\Negocio\obj\Debug\Negocio.vbprojResolveAssemblyReference.cache
+C:\ERP\branches\ERP\Negocio\obj\Debug\Negocio.Resources.resources
+C:\ERP\branches\ERP\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\ERP\branches\ERP\Negocio\obj\Debug\Negocio.dll
+C:\ERP\branches\ERP\Negocio\obj\Debug\Negocio.xml
+C:\ERP\branches\ERP\Negocio\obj\Debug\Negocio.pdb
+C:\ERP_Meta\branches\ERP\Negocio\bin\Debug\Negocio.dll
+C:\ERP_Meta\branches\ERP\Negocio\bin\Debug\Negocio.pdb
+C:\ERP_Meta\branches\ERP\Negocio\bin\Debug\Negocio.xml
+C:\ERP_Meta\branches\ERP\Negocio\bin\Debug\Datos.dll
+C:\ERP_Meta\branches\ERP\Negocio\bin\Debug\Entidad.dll
+C:\ERP_Meta\branches\ERP\Negocio\bin\Debug\Operacion.dll
+C:\ERP_Meta\branches\ERP\Negocio\bin\Debug\Datos.pdb
+C:\ERP_Meta\branches\ERP\Negocio\bin\Debug\Datos.xml
+C:\ERP_Meta\branches\ERP\Negocio\bin\Debug\Entidad.pdb
+C:\ERP_Meta\branches\ERP\Negocio\bin\Debug\Entidad.xml
+C:\ERP_Meta\branches\ERP\Negocio\bin\Debug\Operacion.pdb
+C:\ERP_Meta\branches\ERP\Negocio\bin\Debug\Operacion.xml
+C:\ERP_Meta\branches\ERP\Negocio\obj\Debug\Negocio.vbprojResolveAssemblyReference.cache
+C:\ERP_Meta\branches\ERP\Negocio\obj\Debug\Negocio.Resources.resources
+C:\ERP_Meta\branches\ERP\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\ERP_Meta\branches\ERP\Negocio\obj\Debug\Negocio.dll
+C:\ERP_Meta\branches\ERP\Negocio\obj\Debug\Negocio.xml
+C:\ERP_Meta\branches\ERP\Negocio\obj\Debug\Negocio.pdb
+C:\ERP_META\METADesarrollo\ERP\Negocio\bin\Debug\Negocio.dll
+C:\ERP_META\METADesarrollo\ERP\Negocio\bin\Debug\Negocio.pdb
+C:\ERP_META\METADesarrollo\ERP\Negocio\bin\Debug\Negocio.xml
+C:\ERP_META\METADesarrollo\ERP\Negocio\bin\Debug\Comun.dll
+C:\ERP_META\METADesarrollo\ERP\Negocio\bin\Debug\Datos.dll
+C:\ERP_META\METADesarrollo\ERP\Negocio\bin\Debug\Entidad.dll
+C:\ERP_META\METADesarrollo\ERP\Negocio\bin\Debug\Operacion.dll
+C:\ERP_META\METADesarrollo\ERP\Negocio\bin\Debug\Comun.pdb
+C:\ERP_META\METADesarrollo\ERP\Negocio\bin\Debug\Comun.xml
+C:\ERP_META\METADesarrollo\ERP\Negocio\bin\Debug\Datos.pdb
+C:\ERP_META\METADesarrollo\ERP\Negocio\bin\Debug\Datos.xml
+C:\ERP_META\METADesarrollo\ERP\Negocio\bin\Debug\Entidad.pdb
+C:\ERP_META\METADesarrollo\ERP\Negocio\bin\Debug\Entidad.xml
+C:\ERP_META\METADesarrollo\ERP\Negocio\bin\Debug\Operacion.pdb
+C:\ERP_META\METADesarrollo\ERP\Negocio\bin\Debug\Operacion.xml
+C:\ERP_META\METADesarrollo\ERP\Negocio\obj\Debug\Negocio.vbprojResolveAssemblyReference.cache
+C:\ERP_META\METADesarrollo\ERP\Negocio\obj\Debug\Negocio.Resources.resources
+C:\ERP_META\METADesarrollo\ERP\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\ERP_META\METADesarrollo\ERP\Negocio\obj\Debug\Negocio.dll
+C:\ERP_META\METADesarrollo\ERP\Negocio\obj\Debug\Negocio.xml
+C:\ERP_META\METADesarrollo\ERP\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Negocio\bin\Debug\Negocio.dll
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Negocio\bin\Debug\Negocio.xml
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Negocio\bin\Debug\Comun.dll
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Negocio\bin\Debug\Datos.dll
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Negocio\bin\Debug\Entidad.dll
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Negocio\bin\Debug\Operacion.dll
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Negocio\bin\Debug\Comun.pdb
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Negocio\bin\Debug\Comun.xml
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Negocio\bin\Debug\Datos.pdb
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Negocio\bin\Debug\Datos.xml
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Negocio\bin\Debug\Entidad.pdb
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Negocio\bin\Debug\Entidad.xml
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Negocio\bin\Debug\Operacion.pdb
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Negocio\bin\Debug\Operacion.xml
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Negocio\obj\Debug\Negocio.vbprojResolveAssemblyReference.cache
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Negocio\obj\Debug\Negocio.Resources.resources
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Negocio\obj\Debug\Negocio.dll
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Negocio\obj\Debug\Negocio.xml
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Negocio\obj\Debug\Negocio.pdb

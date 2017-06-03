@@ -1,0 +1,41 @@
+C:\ERPMM\Operacion\bin\Debug\Operacion.dll
+C:\ERPMM\Operacion\bin\Debug\Operacion.pdb
+C:\ERPMM\Operacion\bin\Debug\Operacion.xml
+C:\ERPMM\Operacion\obj\Debug\Operacion.Resources.resources
+C:\ERPMM\Operacion\obj\Debug\Operacion.vbproj.GenerateResource.Cache
+C:\ERPMM\Operacion\obj\Debug\Operacion.dll
+C:\ERPMM\Operacion\obj\Debug\Operacion.xml
+C:\ERPMM\Operacion\obj\Debug\Operacion.pdb
+C:\ERP\branches\ERP\Operacion\bin\Debug\Operacion.dll
+C:\ERP\branches\ERP\Operacion\bin\Debug\Operacion.pdb
+C:\ERP\branches\ERP\Operacion\bin\Debug\Operacion.xml
+C:\ERP\branches\ERP\Operacion\obj\Debug\Operacion.Resources.resources
+C:\ERP\branches\ERP\Operacion\obj\Debug\Operacion.vbproj.GenerateResource.Cache
+C:\ERP\branches\ERP\Operacion\obj\Debug\Operacion.dll
+C:\ERP\branches\ERP\Operacion\obj\Debug\Operacion.xml
+C:\ERP\branches\ERP\Operacion\obj\Debug\Operacion.pdb
+C:\ERP_Meta\branches\ERP\Operacion\bin\Debug\Operacion.dll
+C:\ERP_Meta\branches\ERP\Operacion\bin\Debug\Operacion.pdb
+C:\ERP_Meta\branches\ERP\Operacion\bin\Debug\Operacion.xml
+C:\ERP_Meta\branches\ERP\Operacion\obj\Debug\Operacion.Resources.resources
+C:\ERP_Meta\branches\ERP\Operacion\obj\Debug\Operacion.vbproj.GenerateResource.Cache
+C:\ERP_Meta\branches\ERP\Operacion\obj\Debug\Operacion.dll
+C:\ERP_Meta\branches\ERP\Operacion\obj\Debug\Operacion.xml
+C:\ERP_Meta\branches\ERP\Operacion\obj\Debug\Operacion.pdb
+C:\ERP_META\METADesarrollo\ERP\Operacion\bin\Debug\Operacion.dll
+C:\ERP_META\METADesarrollo\ERP\Operacion\bin\Debug\Operacion.pdb
+C:\ERP_META\METADesarrollo\ERP\Operacion\bin\Debug\Operacion.xml
+C:\ERP_META\METADesarrollo\ERP\Operacion\obj\Debug\Operacion.Resources.resources
+C:\ERP_META\METADesarrollo\ERP\Operacion\obj\Debug\Operacion.vbproj.GenerateResource.Cache
+C:\ERP_META\METADesarrollo\ERP\Operacion\obj\Debug\Operacion.dll
+C:\ERP_META\METADesarrollo\ERP\Operacion\obj\Debug\Operacion.xml
+C:\ERP_META\METADesarrollo\ERP\Operacion\obj\Debug\Operacion.pdb
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Operacion\bin\Debug\Operacion.dll
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Operacion\bin\Debug\Operacion.pdb
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Operacion\bin\Debug\Operacion.xml
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Operacion\obj\Debug\Operacion.vbprojResolveAssemblyReference.cache
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Operacion\obj\Debug\Operacion.Resources.resources
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Operacion\obj\Debug\Operacion.vbproj.GenerateResource.Cache
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Operacion\obj\Debug\Operacion.dll
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Operacion\obj\Debug\Operacion.xml
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Operacion\obj\Debug\Operacion.pdb

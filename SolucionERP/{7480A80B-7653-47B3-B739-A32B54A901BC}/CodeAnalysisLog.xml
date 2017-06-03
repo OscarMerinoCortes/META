@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 12.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="12.0">
+ <Targets>
+  <Target Name="C:\Users\Oscar Merino\AppData\Local\Temp\tmp4F8C.tmp.cadir\bin\App_Web_5lhponfe.dll">
+   <Modules>
+    <Module Name="app_web_5lhponfe.dll">
+     <Namespaces>
+      <Namespace Name="">
+       <Types>
+        <Type Name="Wuc_WUCDatosAuditoria" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Finalize()" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="ImplementIDisposableCorrectly" Category="Microsoft.Design" CheckId="CA1063" Status="Active" Created="2016-09-27 00:53:40Z" FixCategory="Breaking">
+             <Issue Name="FinalizeImplementation" Certainty="95" Level="Error" Path="C:\ERP_META\METADesarrollo\ERP\SolucionERP\Wuc" File="WUCDatosAuditoria.ascx.vb" Line="58">Modifique 'Wuc_WUCDatosAuditoria.Finalize()' para que llame a Dispose(false) y, a continuación, regrese.</Issue>
+            </Message>
+            <Message TypeName="RemoveEmptyFinalizers" Category="Microsoft.Performance" CheckId="CA1821" Status="Active" Created="2016-09-27 00:53:40Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\ERP_META\METADesarrollo\ERP\SolucionERP\Wuc" File="WUCDatosAuditoria.ascx.vb" Line="58">'Wuc_WUCDatosAuditoria' implementa un finalizador que sólo llama condicionalmente a métodos emitidos o al finalizador del tipo base. Quite el finalizador o asegúrese de que sólo se compila condicionalmente en el ensamblado. Si se produce esta infracción con un finalizador que se incluye por completo en un bloque de código emitido condicionalmente, suprima este mensaje.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="Wuc_WUCDatosAuditoria2" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Finalize()" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="ImplementIDisposableCorrectly" Category="Microsoft.Design" CheckId="CA1063" Status="Active" Created="2016-09-27 00:53:40Z" FixCategory="Breaking">
+             <Issue Name="FinalizeImplementation" Certainty="95" Level="Error" Path="C:\ERP_META\METADesarrollo\ERP\SolucionERP\Wuc" File="WUCDatosAuditoria2.ascx.vb" Line="58">Modifique 'Wuc_WUCDatosAuditoria2.Finalize()' para que llame a Dispose(false) y, a continuación, regrese.</Issue>
+            </Message>
+            <Message TypeName="RemoveEmptyFinalizers" Category="Microsoft.Performance" CheckId="CA1821" Status="Active" Created="2016-09-27 00:53:40Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\ERP_META\METADesarrollo\ERP\SolucionERP\Wuc" File="WUCDatosAuditoria2.ascx.vb" Line="58">'Wuc_WUCDatosAuditoria2' implementa un finalizador que sólo llama condicionalmente a métodos emitidos o al finalizador del tipo base. Quite el finalizador o asegúrese de que sólo se compila condicionalmente en el ensamblado. Si se produce esta infracción con un finalizador que se incluye por completo en un bloque de código emitido condicionalmente, suprima este mensaje.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+  <Target Name="C:\Users\Oscar Merino\AppData\Local\Temp\tmp4F8C.tmp.cadir\bin\App_Web_gbfbhcum.dll">
+   <Modules>
+    <Module Name="app_web_gbfbhcum.dll">
+     <Namespaces>
+      <Namespace Name="">
+       <Types>
+        <Type Name="_Default" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Finalize()" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="ImplementIDisposableCorrectly" Category="Microsoft.Design" CheckId="CA1063" Status="Active" Created="2016-09-27 00:53:40Z" FixCategory="Breaking">
+             <Issue Name="FinalizeImplementation" Certainty="95" Level="Error" Path="C:\ERP_META\METADesarrollo\ERP\SolucionERP\Privada\Cliente\Proceso" File="Proveedor.aspx.vb" Line="1960">Modifique '_Default.Finalize()' para que llame a Dispose(false) y, a continuación, regrese.</Issue>
+            </Message>
+            <Message TypeName="RemoveEmptyFinalizers" Category="Microsoft.Performance" CheckId="CA1821" Status="Active" Created="2016-09-27 00:53:40Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\ERP_META\METADesarrollo\ERP\SolucionERP\Privada\Cliente\Proceso" File="Proveedor.aspx.vb" Line="1960">'_Default' implementa un finalizador que sólo llama condicionalmente a métodos emitidos o al finalizador del tipo base. Quite el finalizador o asegúrese de que sólo se compila condicionalmente en el ensamblado. Si se produce esta infracción con un finalizador que se incluye por completo en un bloque de código emitido condicionalmente, suprima este mensaje.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+  <Target Name="C:\Users\Oscar Merino\AppData\Local\Temp\tmp4F8C.tmp.cadir\bin\App_Web_hhemg52s.dll">
+   <Modules>
+    <Module Name="app_web_hhemg52s.dll">
+     <Namespaces>
+      <Namespace Name="">
+       <Types>
+        <Type Name="_Default" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Finalize()" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="ImplementIDisposableCorrectly" Category="Microsoft.Design" CheckId="CA1063" Status="Active" Created="2016-09-27 00:53:40Z" FixCategory="Breaking">
+             <Issue Name="FinalizeImplementation" Certainty="95" Level="Error" Path="C:\ERP_META\METADesarrollo\ERP\SolucionERP\Privada\Cliente\Proceso" File="RegistroPersonas.aspx.vb" Line="2243">Modifique '_Default.Finalize()' para que llame a Dispose(false) y, a continuación, regrese.</Issue>
+            </Message>
+            <Message TypeName="RemoveEmptyFinalizers" Category="Microsoft.Performance" CheckId="CA1821" Status="Active" Created="2016-09-27 00:53:40Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\ERP_META\METADesarrollo\ERP\SolucionERP\Privada\Cliente\Proceso" File="RegistroPersonas.aspx.vb" Line="2243">'_Default' implementa un finalizador que sólo llama condicionalmente a métodos emitidos o al finalizador del tipo base. Quite el finalizador o asegúrese de que sólo se compila condicionalmente en el ensamblado. Si se produce esta infracción con un finalizador que se incluye por completo en un bloque de código emitido condicionalmente, suprima este mensaje.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+  <Target Name="C:\Users\Oscar Merino\AppData\Local\Temp\tmp4F8C.tmp.cadir\bin\App_Web_puxn0bvt.dll">
+   <Modules>
+    <Module Name="app_web_puxn0bvt.dll">
+     <Namespaces>
+      <Namespace Name="">
+       <Types>
+        <Type Name="_Default" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Finalize()" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="ImplementIDisposableCorrectly" Category="Microsoft.Design" CheckId="CA1063" Status="Active" Created="2016-09-27 00:53:40Z" FixCategory="Breaking">
+             <Issue Name="FinalizeImplementation" Certainty="95" Level="Error" Path="C:\ERP_META\METADesarrollo\ERP\SolucionERP\Privada\Compra\Proceso" File="Proveedor.aspx.vb" Line="894">Modifique '_Default.Finalize()' para que llame a Dispose(false) y, a continuación, regrese.</Issue>
+            </Message>
+            <Message TypeName="RemoveEmptyFinalizers" Category="Microsoft.Performance" CheckId="CA1821" Status="Active" Created="2016-09-27 00:53:40Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\ERP_META\METADesarrollo\ERP\SolucionERP\Privada\Compra\Proceso" File="Proveedor.aspx.vb" Line="894">'_Default' implementa un finalizador que sólo llama condicionalmente a métodos emitidos o al finalizador del tipo base. Quite el finalizador o asegúrese de que sólo se compila condicionalmente en el ensamblado. Si se produce esta infracción con un finalizador que se incluye por completo en un bloque de código emitido condicionalmente, suprima este mensaje.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+  <Target Name="C:\Users\Oscar Merino\AppData\Local\Temp\tmp4F8C.tmp.cadir\bin\App_Web_rngix1qc.dll">
+   <Modules>
+    <Module Name="app_web_rngix1qc.dll">
+     <Namespaces>
+      <Namespace Name="">
+       <Types>
+        <Type Name="WucConsultarPersona" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#CerarClick" Kind="Event" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DeclareEventHandlersCorrectly" Category="Microsoft.Design" CheckId="CA1009" Status="Active" Created="2016-09-27 00:53:40Z" FixCategory="Breaking">
+             <Issue Name="First" Certainty="95" Level="Error">Declare el primer parámetro de 'WucConsultarPersona.CerarClickEventHandler' como un objeto denominado 'sender'.</Issue>
+             <Issue Name="Second" Certainty="95" Level="Error">Declare el segundo parámetro de 'WucConsultarPersona.CerarClickEventHandler' como EventArgs o una instancia de un tipo que extienda EventArgs, denominado 'e'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="WucConsultarPersona2" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#CerarClick" Kind="Event" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DeclareEventHandlersCorrectly" Category="Microsoft.Design" CheckId="CA1009" Status="Active" Created="2016-09-27 00:53:40Z" FixCategory="Breaking">
+             <Issue Name="First" Certainty="95" Level="Error">Declare el primer parámetro de 'WucConsultarPersona2.CerarClickEventHandler' como un objeto denominado 'sender'.</Issue>
+             <Issue Name="Second" Certainty="95" Level="Error">Declare el segundo parámetro de 'WucConsultarPersona2.CerarClickEventHandler' como EventArgs o una instancia de un tipo que extienda EventArgs, denominado 'e'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="WucConsultarPersonaCaja" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#CerrarClick" Kind="Event" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DeclareEventHandlersCorrectly" Category="Microsoft.Design" CheckId="CA1009" Status="Active" Created="2016-09-27 00:53:40Z" FixCategory="Breaking">
+             <Issue Name="First" Certainty="95" Level="Error">Declare el primer parámetro de 'WucConsultarPersonaCaja.CerrarClickEventHandler' como un objeto denominado 'sender'.</Issue>
+             <Issue Name="Second" Certainty="95" Level="Error">Declare el segundo parámetro de 'WucConsultarPersonaCaja.CerrarClickEventHandler' como EventArgs o una instancia de un tipo que extienda EventArgs, denominado 'e'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="WucConsultarProductoDetalle" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#CerarClick" Kind="Event" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DeclareEventHandlersCorrectly" Category="Microsoft.Design" CheckId="CA1009" Status="Active" Created="2016-09-27 00:53:40Z" FixCategory="Breaking">
+             <Issue Name="First" Certainty="95" Level="Error">Declare el primer parámetro de 'WucConsultarProductoDetalle.CerarClickEventHandler' como un objeto denominado 'sender'.</Issue>
+             <Issue Name="Second" Certainty="95" Level="Error">Declare el segundo parámetro de 'WucConsultarProductoDetalle.CerarClickEventHandler' como EventArgs o una instancia de un tipo que extienda EventArgs, denominado 'e'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="WucConsultarProveedor" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#CerarClick" Kind="Event" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DeclareEventHandlersCorrectly" Category="Microsoft.Design" CheckId="CA1009" Status="Active" Created="2016-09-27 00:53:40Z" FixCategory="Breaking">
+             <Issue Name="First" Certainty="95" Level="Error">Declare el primer parámetro de 'WucConsultarProveedor.CerarClickEventHandler' como un objeto denominado 'sender'.</Issue>
+             <Issue Name="Second" Certainty="95" Level="Error">Declare el segundo parámetro de 'WucConsultarProveedor.CerarClickEventHandler' como EventArgs o una instancia de un tipo que extienda EventArgs, denominado 'e'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="WucConsultarProveedor2" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#CerarClick" Kind="Event" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DeclareEventHandlersCorrectly" Category="Microsoft.Design" CheckId="CA1009" Status="Active" Created="2016-09-27 00:53:40Z" FixCategory="Breaking">
+             <Issue Name="First" Certainty="95" Level="Error">Declare el primer parámetro de 'WucConsultarProveedor2.CerarClickEventHandler' como un objeto denominado 'sender'.</Issue>
+             <Issue Name="Second" Certainty="95" Level="Error">Declare el segundo parámetro de 'WucConsultarProveedor2.CerarClickEventHandler' como EventArgs o una instancia de un tipo que extienda EventArgs, denominado 'e'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+  <Target Name="C:\Users\Oscar Merino\AppData\Local\Temp\tmp4F8C.tmp.cadir\bin\App_Web_stpsdohl.dll">
+   <Modules>
+    <Module Name="app_web_stpsdohl.dll">
+     <Namespaces>
+      <Namespace Name="">
+       <Types>
+        <Type Name="_Default" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Finalize()" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="ImplementIDisposableCorrectly" Category="Microsoft.Design" CheckId="CA1063" Status="Active" Created="2016-09-27 00:53:40Z" FixCategory="Breaking">
+             <Issue Name="FinalizeImplementation" Certainty="95" Level="Error" Path="C:\ERP_META\METADesarrollo\ERP\SolucionERP\Privada\Cliente\Proceso" File="Cliente.aspx.vb" Line="2201">Modifique '_Default.Finalize()' para que llame a Dispose(false) y, a continuación, regrese.</Issue>
+            </Message>
+            <Message TypeName="RemoveEmptyFinalizers" Category="Microsoft.Performance" CheckId="CA1821" Status="Active" Created="2016-09-27 00:53:40Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\ERP_META\METADesarrollo\ERP\SolucionERP\Privada\Cliente\Proceso" File="Cliente.aspx.vb" Line="2201">'_Default' implementa un finalizador que sólo llama condicionalmente a métodos emitidos o al finalizador del tipo base. Quite el finalizador o asegúrese de que sólo se compila condicionalmente en el ensamblado. Si se produce esta infracción con un finalizador que se incluye por completo en un bloque de código emitido condicionalmente, suprima este mensaje.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="DeclareEventHandlersCorrectly" Category="Microsoft.Design" CheckId="CA1009">
+   <Name>Declare los controladores de evento correctamente</Name>
+   <Description>Normalmente, los eventos .NET tienen dos parámetros que especifican el remitente del evento y los datos del mismo. Las signaturas del controlador de eventos deberían tener la siguiente forma: void MyEventHandler(object sender, EventArgs e). El parámetro 'sender' es siempre de tipo System.Object, incluso aunque fuera posible utilizar un tipo más específico. El parámetro 'e' es siempre de tipo System.EventArgs. Los eventos que no proporcionan datos del evento deberían utilizar el tipo delegado System.EventHandler. Los controladores de evento devuelven void para que puedan enviar cada evento a varios métodos de destino. Cualquier valor devuelto por el destino se perderá después de la primera llamada.</Description>
+   <Resolution Name="First">Declare el primer parámetro de {0} como un objeto denominado 'sender'.</Resolution>
+   <Resolution Name="Second">Declare el segundo parámetro de {0} como EventArgs o una instancia de un tipo que extienda EventArgs, denominado 'e'.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182133.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="designrules.dll" Version="12.0.0.0" />
+  </Rule>
+  <Rule TypeName="ImplementIDisposableCorrectly" Category="Microsoft.Design" CheckId="CA1063">
+   <Name>Implemente IDisposable correctamente</Name>
+   <Description>Todos los tipos IDisposable deben implementar el patrón de Dispose correctamente.</Description>
+   <Resolution Name="FinalizeImplementation">Modifique {0} para que llame a Dispose(false) y, a continuación, regrese.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms244737.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="designrules.dll" Version="12.0.0.0" />
+  </Rule>
+  <Rule TypeName="RemoveEmptyFinalizers" Category="Microsoft.Performance" CheckId="CA1821">
+   <Name>Quitar los finalizadores vacíos</Name>
+   <Description>Los finalizadores vacíos se deberían evitar cuando sea posible, con el fin de ahorrar el esfuerzo de rendimiento adicional que implica el seguimiento de la duración de los objetos.</Description>
+   <Resolution Name="Default">{0} implementa un finalizador que sólo llama condicionalmente a métodos emitidos o al finalizador del tipo base. Quite el finalizador o asegúrese de que sólo se compila condicionalmente en el ensamblado. Si se produce esta infracción con un finalizador que se incluye por completo en un bloque de código emitido condicionalmente, suprima este mensaje.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/bb264476.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="12.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Categoría</String>
+  <String Key="Certainty">Certeza</String>
+  <String Key="CollapseAll">Contraer todo</String>
+  <String Key="CheckId">Comprobar id.</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">errores</String>
+  <String Key="ExpandAll">Expandir todo</String>
+  <String Key="Help">Ayuda</String>
+  <String Key="Line">Línea</String>
+  <String Key="Messages">mensajes</String>
+  <String Key="LocationNotStoredInPdb">[Ubicación no almacenada en Pdb]</String>
+  <String Key="Project">Proyecto</String>
+  <String Key="Resolution">Resolución</String>
+  <String Key="Rule">Regla</String>
+  <String Key="RuleFile">Archivo de regla</String>
+  <String Key="RuleDescription">Descripción de la regla</String>
+  <String Key="Source">Origen</String>
+  <String Key="Status">Estado</String>
+  <String Key="Target">Círculos concéntricos</String>
+  <String Key="Warning">Advertencia</String>
+  <String Key="Warnings">advertencias</String>
+  <String Key="ReportTitle">Informe de análisis del código</String>
+ </Localized>
+</FxCopReport>

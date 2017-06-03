@@ -1,0 +1,240 @@
+﻿.GridComun {
+    background-color: rgba(195, 195, 195, 0.38);
+    margin: 5px 0 10px 0;
+    font-size: 1em;
+}
+
+    .GridComun td {
+        padding: 2px;
+        border: solid 0px #424242;
+        color: #717171;
+    }
+
+    .GridComun th {
+        padding: 4px 4px;
+        border: solid 0px #424242;
+        text-align: center;
+        color: #fff;
+        background: #104577;
+        font-size: 1em;
+    }
+
+    .GridComun tr:hover {
+        background: #B9D6FC;
+    }
+
+    .GridComun th a {
+        padding: 4px 4px;
+        text-decoration: none;
+        color: #fff;
+        background: #104577;
+        font-size: 0.9em;
+    }
+
+    .GridComun .alt {
+        background: #fcfcfc;
+    }
+
+    .GridComun .pgr {
+        background: #B9D6FC;
+    }
+
+        .GridComun .pgr table {
+            margin: 5px 0px;
+        }
+
+        .GridComun .pgr td {
+            border-width: 0;
+            padding: 0 6px;
+            border-left: solid 1px #666;
+            color: #fff;
+            line-height: 12px;
+        }
+
+        .GridComun .pgr a {
+            color: #666;
+            text-decoration: none;
+        }
+
+            .GridComun .pgr a:hover {
+                color: #000;
+                text-decoration: none;
+            }
+
+.accordion {
+    margin-right: 10%;
+}
+
+.modalBackground {
+    background-color: #000000;
+    filter: alpha(opacity=80);
+    opacity: 0.8;
+    z-index: 10000;
+}
+
+.accordionHeader {
+    border: 1px solid #D8D8D8;
+    color: #fff;
+    background-color: #797979;
+    font-family: Arial, Sans-Serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.accordionHeaderSelected {
+    border: 1px solid #D8D8D8;
+    color: gray;
+    background-color: #E6E6E6;
+    font-family: Arial, Sans-Serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.accordionContent {
+    background-color: #FAFAFA;
+    border: 1px #F2F2F2;
+    border-top: none;
+    padding: 5px;
+    padding-top: 10px;
+}
+
+.PanelEmergente {
+    width: 80%;
+    height: 80%;
+    background-color: #F7F8FA;
+    border-color: #CCD2D7;
+    border-style: Solid;
+    border-width: 2px;
+}
+
+.MenuHead {
+    padding: 0px;
+    margin: 0px;
+    border: 0px solid #C0C0C0;
+    background-image: url('../Imagenes/IMFondo.png');
+    background-repeat: repeat-x;
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
+.HeadMenu {
+    padding: 4px;
+    margin: 0px;
+    background: #202020;
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
+.HeaderFreez {
+    position: relative;
+    top: -10px;
+    z-index: 10;
+}
+
+.TableBorder {
+    border-right: #E2DED6 1px solid;
+    border-top: #E2DED6 1px solid;
+    border-left: #E2DED6 1px solid;
+    border-bottom: #E2DED6 1px solid;
+}
+
+html, body {
+    scrollbar-face-color: #5D7B9D;
+    scrollbar-base-color: #EBF5FF;
+    scrollbar-arrow-color: #1188FF;
+    scrollbar-track-color: #F3F3F3;
+    scrollbar-shadow-color: #EBF5FF;
+    scrollbar-highlight-color: #EBF5FF;
+    scrollbar-3dlight-color: #78AAFF;
+    scrollbar-darkshadow-Color: #78AAFF;
+}
+
+.CeroColumna{
+    padding-right: 10px;
+}
+.PrimeraColumna{
+    min-width: 200px;
+    max-width: 200px;
+    /*background-color: rgba(195, 195, 195, 0.38);*/
+}
+.SegundaColumna {
+    width: 100%;
+   /* background-color: rgba(195, 195, 195, 0.38);*/
+}
+/* Son para crear formularios con 2 columnas----*/
+.Primer_Columna0 {
+    min-width: 1%;
+    max-width: 1%;
+}
+.Primer_Columna{
+    min-width: 28%;
+    max-width: 28%;
+}
+.Segunda_Columna {
+    min-width: 21%;
+    max-width: 21%;
+}
+.Cuarta_Columna {
+    min-width: 22%;
+    max-width: 22%; 
+}
+/* Son para crear formularios con 7 columnas----*/
+.Columna1{
+    min-width: 14%;
+    max-width: 20px;
+}
+.Columna2{
+    min-width: 15%;
+    max-width: 15%;
+}
+
+/*===================================================*/
+
+    .tt-query {
+        -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+        -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+        box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    }
+
+    .tt-hint {
+        color: #999;
+    }
+
+    .tt-dropdown-menu { /* used to be tt-dropdown-menu in older versions */
+        width: 450px;
+        margin-top: 4px;
+        padding: 4px 0;
+        background-color: #fff;
+        border: 1px solid #ccc;
+        border: 1px solid rgba(0, 0, 0, 0.2);
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        -webkit-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+        -moz-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+        box-shadow: 0 5px 10px rgba(0,0,0,.2);
+    }
+
+    .tt-suggestion {
+        padding: 3px 20px;
+        line-height: 24px;
+    }
+
+        .tt-suggestion.tt-is-under-cursor {
+            color: #fff;
+            background-color: #0097cf;
+        }
+
+        .tt-suggestion p {
+            margin: 0;
+        }
+
+    .typeahead {
+        width: 550px;
+    }

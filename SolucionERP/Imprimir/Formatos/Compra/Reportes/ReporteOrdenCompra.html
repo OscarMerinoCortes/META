@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>REPORTE DE ORDEN DE COMPRAS</title>
+    <script>
+        if (window.print)
+            window.print();
+        else
+            alert("Lo siento, pero a tu navegador no se le puede ordenar imprimir" +
+              " desde la web. Actualizate o hazlo desde los menús");
+    </script>
+</head>
+    <body style="font-size: 11px; margin: 0px; width: 813px; height: 1058px;">
+        <table style="width: 100%; padding: 40px;">
+            <tr>
+                <td colspan="2">[Empresa.Logo]</td>
+                <td style="text-align: right;"><h2>[Empresa.Nombre]</h2><br />[Empresa.Direccion]<br />Fecha de Reporte: [Sistema.Fecha]</td>
+            </tr>
+            <tr>
+                <td colspan="3" style="text-align: center;"><span>LISTADO DE ORDENES DE COMPRAS DEL [Fecha.Inicio] AL [Fecha.Fin]</span></td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    [Tabla.Reporte]
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

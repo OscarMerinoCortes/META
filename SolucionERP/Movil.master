@@ -1,0 +1,65 @@
+﻿<%@ Master Language="VB" CodeFile="MasterPage.master.vb" Inherits="MasterPage" %>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="StyleSheet" href="CSS/Venta.css" type="text/css" />
+    <link rel="StyleSheet" href="CSS/TabMenu.css" type="text/css" />
+    <link href="CSS/MasterPage.css" rel="stylesheet" type="text/css"/>
+    <link rel="StyleSheet" href="CSS/StyleSheet.css" type="text/css" />
+    <link rel="StyleSheet" href="CSS/bootstrap/bootstrap.min.css" type="text/css" />
+    <link rel="StyleSheet" href="CSS/font-awesome.min.css" type="text/css" />
+    <link href="CSS/bootstrap/bootstrap-switch.min.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+       <div class="header">
+            <div id="Titulo">
+                <img id="LogoEncavezado" src="/Imagenes/Modulo/IMLogoSistema1.png" />
+                <asp:Label ID="LBModulo" runat="server"></asp:Label>
+                <asp:Label ID="LBOpcion" runat="server" Text=""></asp:Label>
+            </div>
+            <%--Menu de cada modulo en encavezado
+                <div id="MenuDerecho">
+                <asp:Menu ID="MNOpcion" runat="server" CssClass="menuOpciones" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                </asp:Menu>
+            </div>--%>
+            <input type="checkbox" id="btn-menu" />
+            <label id="btn-menus" for="btn-menu">
+                <img src="/Imagenes/IMModulo.png" />
+            </label>
+            <div id="nav" class="menu" style="float: right;">
+                <div class="EncavezadoMenu">
+                    <a href="/Default.aspx">
+                        <img src="/Imagenes/Modulo/IMLogoSistema1.png" /></a>
+                </div>
+                <asp:Menu ID="MNModulo" runat="server" Orientation="Vertical">
+                </asp:Menu>
+                <div class="PieMenu">
+                      <asp:LinkButton ID="LBCerrar" ImageUrl="/Imagenes/Modulo/IMSalir.png" runat="server"><img src="/Imagenes/Modulo/IMSalir.png" /></asp:LinkButton>   
+                    <%--<a href="/Account/Login.aspx">
+                        <img src="/Imagenes/Modulo/IMSalir.png" /></a>--%>
+                </div>
+            </div>
+
+        </div>
+        <div id="Submenu">
+            <div id="MenuDerecho">
+                <asp:Menu ID="MNOpcion" runat="server" CssClass="menuOpciones" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                </asp:Menu>
+            </div>
+        </div>
+        
+        <div>
+            <asp:ScriptManager ID="ScriptManager1" runat="server">
+            </asp:ScriptManager>
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

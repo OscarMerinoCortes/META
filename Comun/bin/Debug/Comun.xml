@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Comun
+</name>
+</assembly>
+<members>
+<member name="T:Comun.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Comun.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Comun.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Comun.Presentacion.Comprobacion.ValidaFechaInicio(System.String)">
+ <summary>
+ Valida si la fecha es correcta, de no serlo regresa la fecha siguiente: 01/01/Año actual.</summary>
+ <param name="Fecha">Fecha a validar.</param>
+ <returns>Fecha en formato Date</returns>
+</member>
+<member name="M:Comun.Presentacion.Comprobacion.ValidaFechaFin(System.String)">
+ <summary>
+ Valida si la fecha es correcta, de no serlo regresa la fecha actual del sistema.</summary>
+ <param name="Fecha">Fecha a validar.</param>
+ <returns>Fecha en formato Date</returns>
+</member>
+</members>
+</doc>

@@ -1,0 +1,41 @@
+C:\ERPMM\Comun\bin\Debug\Comun.dll
+C:\ERPMM\Comun\bin\Debug\Comun.pdb
+C:\ERPMM\Comun\bin\Debug\Comun.xml
+C:\ERPMM\Comun\obj\Debug\Comun.Resources.resources
+C:\ERPMM\Comun\obj\Debug\Comun.vbproj.GenerateResource.Cache
+C:\ERPMM\Comun\obj\Debug\Comun.dll
+C:\ERPMM\Comun\obj\Debug\Comun.xml
+C:\ERPMM\Comun\obj\Debug\Comun.pdb
+C:\ERP\branches\ERP\Comun\bin\Debug\Comun.dll
+C:\ERP\branches\ERP\Comun\bin\Debug\Comun.pdb
+C:\ERP\branches\ERP\Comun\bin\Debug\Comun.xml
+C:\ERP\branches\ERP\Comun\obj\Debug\Comun.Resources.resources
+C:\ERP\branches\ERP\Comun\obj\Debug\Comun.vbproj.GenerateResource.Cache
+C:\ERP\branches\ERP\Comun\obj\Debug\Comun.dll
+C:\ERP\branches\ERP\Comun\obj\Debug\Comun.xml
+C:\ERP\branches\ERP\Comun\obj\Debug\Comun.pdb
+C:\ERP_Meta\branches\ERP\Comun\bin\Debug\Comun.dll
+C:\ERP_Meta\branches\ERP\Comun\bin\Debug\Comun.pdb
+C:\ERP_Meta\branches\ERP\Comun\bin\Debug\Comun.xml
+C:\ERP_Meta\branches\ERP\Comun\obj\Debug\Comun.Resources.resources
+C:\ERP_Meta\branches\ERP\Comun\obj\Debug\Comun.vbproj.GenerateResource.Cache
+C:\ERP_Meta\branches\ERP\Comun\obj\Debug\Comun.dll
+C:\ERP_Meta\branches\ERP\Comun\obj\Debug\Comun.xml
+C:\ERP_Meta\branches\ERP\Comun\obj\Debug\Comun.pdb
+C:\ERP_META\METADesarrollo\ERP\Comun\bin\Debug\Comun.dll
+C:\ERP_META\METADesarrollo\ERP\Comun\bin\Debug\Comun.pdb
+C:\ERP_META\METADesarrollo\ERP\Comun\bin\Debug\Comun.xml
+C:\ERP_META\METADesarrollo\ERP\Comun\obj\Debug\Comun.Resources.resources
+C:\ERP_META\METADesarrollo\ERP\Comun\obj\Debug\Comun.vbproj.GenerateResource.Cache
+C:\ERP_META\METADesarrollo\ERP\Comun\obj\Debug\Comun.dll
+C:\ERP_META\METADesarrollo\ERP\Comun\obj\Debug\Comun.xml
+C:\ERP_META\METADesarrollo\ERP\Comun\obj\Debug\Comun.pdb
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Comun\bin\Debug\Comun.dll
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Comun\bin\Debug\Comun.pdb
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Comun\bin\Debug\Comun.xml
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Comun\obj\Debug\Comun.vbprojResolveAssemblyReference.cache
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Comun\obj\Debug\Comun.Resources.resources
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Comun\obj\Debug\Comun.vbproj.GenerateResource.Cache
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Comun\obj\Debug\Comun.dll
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Comun\obj\Debug\Comun.xml
+C:\Users\Oscar Merino\Desktop\META\METADesarrollo\ERP\Comun\obj\Debug\Comun.pdb
